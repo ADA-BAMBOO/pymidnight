@@ -114,6 +114,7 @@ pytest
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 📧 Contact
+Bamboo team - trevietcore@gmail.com
 
 Huy Anh - huynhnguyenhuyanh.work@gmail.com
 
