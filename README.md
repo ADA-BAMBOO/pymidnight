@@ -115,7 +115,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 📧 Contact
 
-Huy Anh - golem25012001@gmail.com
+Huy Anh - huynhnguyenhuyanh.work@gmail.com
 
 Project Link: https://github.com/ADA-BAMBOO/pymidnight.git
 
